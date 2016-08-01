@@ -10,7 +10,7 @@
 <title>Listagem do arquivo props.txt</title>
 </head>
 <body>
-
+<jsp:include page="header.jsp"></jsp:include>
 	<%!Properties props = new Properties();%>
 
 	<%
